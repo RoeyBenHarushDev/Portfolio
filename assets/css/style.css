@@ -446,7 +446,8 @@ section {
 }
 .downloadBtn{
   text-align: center;
-  width: 160px;
+  width: 120px;
+  margin-left: 18px;
   padding: 9px;
   color: white;
   border-radius: 3px;
@@ -454,7 +455,7 @@ section {
 }
 .downloadBtn:hover{
   text-align: center;
-  width: 160px;
+  width: 120px;
   padding: 9px;
   color:white;
   background-color: #3792ed;
